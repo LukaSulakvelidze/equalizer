@@ -19,6 +19,11 @@ header {
   margin-left: 9px;
 }
 
+.mob-back {
+  position: absolute;
+  right: 0;
+}
+
 .tab-circle {
   display: none;
 }
